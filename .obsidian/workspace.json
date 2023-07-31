@@ -8,123 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf4c53680af26b00",
+            "id": "6f68fbe24c33f4b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "20230731MarkdownメモアプリのObsidianを使ってみたら評判通り捗った.md",
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "147ef369a1e2e39b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230407ChatGPTをWeb開発の現場で便利に使う方法.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e98ada9a2c62ba3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230419AIアシストで人間が強化される世界線についての所感.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9d7d16b9e3b57786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230621日本株個別投資で損した100万円を米国株インデックス投資で取り戻した.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "60f1add2024136a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230407ChatGPTをWeb開発の現場で便利に使う方法.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2750855595dac47a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20180624短歌投稿サイトUtakataをリリースしました.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a65cd377be8842ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230621日本株個別投資で損した100万円を米国株インデックス投資で取り戻した.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b17e8fb053950bfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230419AIアシストで人間が強化される世界線についての所感.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a9168d83cea9c18b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20150712会社員にだけはなれないと思って会社員になるだけの人生だった.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "85e889d8a1f93ce2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20230731MarkdownメモアプリのObsidianを使ってみたら評判通り捗った.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20230731MarkdownメモアプリのObsidianを使ってみたら評判通り捗った.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20230731MarkdownメモアプリのObsidianを使ってみたら評判通り捗った.md"
+              }
             }
           }
         ]
@@ -247,17 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85e889d8a1f93ce2",
+  "active": "d1f18557202b670e",
   "lastOpenFiles": [
-    "20150712会社員にだけはなれないと思って会社員になるだけの人生だった.md",
     "20150711就活オワタ.md",
+    "20230731MarkdownメモアプリのObsidianを使ってみたら評判通り捗った.md",
     "20150126もうモテなくて良いけれど、恋愛について語りたい.md",
-    "20180624短歌投稿サイトUtakataをリリースしました.md",
+    "20150712会社員にだけはなれないと思って会社員になるだけの人生だった.md",
     "20170509株式投資を始めました.md",
+    "20180624短歌投稿サイトUtakataをリリースしました.md",
     "20230407ChatGPTをWeb開発の現場で便利に使う方法.md",
     "20230419AIアシストで人間が強化される世界線についての所感.md",
     "20230621日本株個別投資で損した100万円を米国株インデックス投資で取り戻した.md",
     "20230718RailsのTurboでGA4のページビューが少なく計測されてしまう問題を解消する.md",
+    "drafts",
     "README.md"
   ]
 }
