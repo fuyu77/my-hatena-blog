@@ -1,2 +1,3 @@
 # my-hatena-blog
-ブログをObsidianで管理する
+
+はてなブログ『[あなたとあなたの話がしたい](https://fuyu.hatenablog.com/)』のテキストをObsidianで管理する。
