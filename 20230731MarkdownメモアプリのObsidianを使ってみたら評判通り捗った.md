@@ -1,3 +1,6 @@
+---
+tag: Markdown
+---
 [https://obsidian.md:embed]
 
 最近やたらと絶賛されているMarkdownメモアプリのObsidianを使ってみたら、なるほど、これは便利だ、という感じなので、使い勝手について書きたい。
